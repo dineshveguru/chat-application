@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dineshveguru/chat-application/issues"
   },
-  "homepage": "https://github.com/dineshveguru/chat-application#readme"
+  "homepage": "https://github.com/dineshveguru/chat-application#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
